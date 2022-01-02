@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ZWubs/PANIC-Docs#readme",
   "dependencies": {
-    "@notionhq/client": "^0.4.11"
+    "@notionhq/client": "^0.4.11",
+    "dotenv": "^10.0.0"
   }
 }
